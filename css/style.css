@@ -146,9 +146,10 @@ header{
 }
 .custom-product1 p{
 	text-align: left;
-	padding: 20px 0px;
+	padding: 20px 20px;
 }
 .btn-product-one{
+	margin-bottom: 20px;
 	padding: 15px 45px;
     border-radius: 50px;
     background-color: #dd4b2b;
@@ -171,6 +172,7 @@ header{
 	padding: 20px 0px;
 }
 .btn-product-two{
+	margin-bottom: 20px ;
 	padding: 15px 45px;
     border-radius: 50px;
     background-color: #4b4e73;
