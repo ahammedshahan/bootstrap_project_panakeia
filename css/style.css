@@ -149,7 +149,7 @@ header{
 	padding: 20px 20px;
 }
 .btn-product-one{
-	margin-bottom: 20px;
+	margin-bottom: 50px;
 	padding: 15px 45px;
     border-radius: 50px;
     background-color: #dd4b2b;
@@ -161,8 +161,8 @@ header{
     transition: ease 0.4s all;
 }
 .btn-product-one:hover{
-	color:#fff;
-	background-color: #dd4b2b;
+	color:#000!important;
+	background-color: #fff!important;
 }
 .custom-product2 h2{
 	padding: 50px 0px 30px;
@@ -172,7 +172,7 @@ header{
 	padding: 20px 0px;
 }
 .btn-product-two{
-	margin-bottom: 20px ;
+	margin-bottom: 50px ;
 	padding: 15px 45px;
     border-radius: 50px;
     background-color: #4b4e73;
@@ -184,8 +184,8 @@ header{
     transition: ease 0.4s all;
 }
 .btn-product-two:hover{
-	color:#fff;
-	background-color: #4b4e73;
+	color:#000!important;
+	background-color: #fff!important;
 }
 /* Footer Section */
 footer{
